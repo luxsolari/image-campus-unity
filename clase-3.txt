@@ -1,0 +1,7 @@
+- Repaso de actividad de clase anterior.
+- Definicion de Matriz en C#
+- Definicion de funcion OnMouseDown()
+- Conseguir informacion de gameobjects child y parent
+- Modificar datos en funcion de otros gameObjects.
+- Funciones para encontrar objetos en una jerarquia de gameObjects
+- Introduccion a la clase Log para presentar informacion por consola.

@@ -1,0 +1,10 @@
+- Clase Random de Unity para generar numeros pseudo-aleatorios
+- Introduccion a PreFabs
+- Metodo Instantiate() para crear objetos en tiempo de ejecución
+- Cosas random de un juego de preguntas
+- Explicaciones random sobre como generar unos numeros en pasos de 0.2
+- ???
+- Algo sobre encapsulamiento y cosas
+- Metodo Destroy() para sacar instancias de la memoria.
+- Introduccion a Coroutines
+

@@ -1,0 +1,10 @@
+- Repaso de conceptos vistos en clase 1.
+- Concepto de camara en Unity
+- Propiedades de camaras en Unity
+- Concepto de Mesh Filter
+- Concepto de Mesh Renderer
+- Concepto de Materiales Visuales y Fisicos
+- Concepto de Texturas y Mapas Normales
+- Oclusion Maps y Albeddo Maps
+- Introduccion a Scripting en Unity
+
