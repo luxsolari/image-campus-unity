@@ -1,0 +1,9 @@
+- Repaso de actividad de clase anterior.
+- Conversion de coordenadas locales a coordenadas globales y viceversa
+- Intento fallido del profe de mostrar un ejemplo de conversion de coordenadas
+  usando algo sacado de uniy.answers y que falla miserablemente
+- Definicion de Mecanica, Dinamica y Estetica de juego
+- Definicion de input system e input manager de Unity
+- Movimiento, delta time, y normalizacion
+- Ejemplo de minijuego de movimiento con spawning de prefabs que se mueven hacia el jugador
+
