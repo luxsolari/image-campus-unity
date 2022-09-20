@@ -1,0 +1,5 @@
+- Introduccion a sistema de colisiones de Unity
+- Concepto de Collider
+- Tipos de Colliders
+- Deteccion de colisiones con colliders
+

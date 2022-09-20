@@ -1,0 +1,3 @@
+- Repaso de clase anterior.
+- Introduccion al Input System
+- Creacion de componente Input Actions y binding de controles
