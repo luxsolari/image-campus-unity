@@ -1,0 +1,3 @@
+- Concepto de rotacion mediante torque
+- Metodos AddForce y AddRelativeForce
+- Metodo AddTorque

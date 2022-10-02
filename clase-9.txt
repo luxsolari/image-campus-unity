@@ -1,0 +1,8 @@
+- Debugging de unity con visual studio
+- Como habilitar el modo debugging en Unity
+- Setear breakpoints en visual studio
+- Comentarios random acerca de debugging y logging
+- Introduccion a materiales fisicos
+- Algo sobre grama
+- Comentarios random sobre engines
+
