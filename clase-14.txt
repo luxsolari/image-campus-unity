@@ -1,0 +1,10 @@
+- Repaso de clase anterior sobre UI y Canvas
+- Repaso de Canvas
+- Tecnicas de drag and drop de Canvas
+- Tecnica para generar una barra de carga con un sprite
+- Concepto de Scenes y carga de multiples scenes en un juego
+- Metodo DontDestroyOnLoad para pasar objetos entre escenas
+- Configuracion de scenes para buildear
+- Metodos de LoadScene y LoadSceneAsync
+- Metodo de carga Single y Additive
+- Conceptos de post-processing

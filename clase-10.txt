@@ -1,0 +1,7 @@
+- Introduccion a raycast
+- Un raycast es internamente un rayo de luz q se proyecta desde un vector de origen a un vector de destino.
+- Concepto de boxcast y spherecast
+- Cosas random sobre poligonos en mesh
+- Trazar raycast visibles en modo debug
+- Explicacion random sobre herencia en OOP
+- 
